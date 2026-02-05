@@ -1,0 +1,59 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#universal{
+    padding :50px;
+}
+
+#univbox{
+    text-align: center;
+    border: 1px solid black;
+}
+#mainbox{
+   border: 1px solid  black;
+   display: flex;
+   justify-content: space-around;
+   height: 300px;
+   font-size: 25px;
+   font-weight: 700;
+}
+#compBox{
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-evenly;
+}
+#UserBox{
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-evenly;
+}
+#head{
+    margin:10px;
+    height: 50px;
+    width: 100px;
+}
+#tail{
+    margin:10px;
+    height: 50px;
+    width: 100px;
+}
+#infoBox{
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-evenly;
+}
+#enterBox{
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-evenly;
+    width: 100px;
+}
+#enter{
+    height: 100px;
+}
