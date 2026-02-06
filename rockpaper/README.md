@@ -1,3 +1,5 @@
+```javascript
+
 
 // new things
 // queryselector  ,  forEacg  ,  click event lisener  ,  prop sending "e"  ,  currentTarget   ,  contains   ,  
@@ -43,3 +45,6 @@ btns.forEach((btn) => {
   });
 });
 
+
+
+```
